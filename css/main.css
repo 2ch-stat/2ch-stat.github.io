@@ -1,0 +1,33 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+html, body {
+    font-family: 'Play', sans-serif;
+}
+.bio { background: url('../img/tnn.jpg'); } .bio > p { background: #FFF; }
+
+.polit { background: url('../img/putin.jpg'); } .polit > p { background: #FFF; }
+.bydlo { background: url('../img/bydlo.jpg'); } .bydlo > p { background: #FFF; }
+.roll { background: url('../img/ruletka.jpeg'); } .roll > p { background: #FFF; }
+
+.chart { margin-top: 10px; max-width: 400px; }
+.big { font-size: 125%; }
+
+.chart-item {
+    padding: 5px;
+    border-bottom: 1px #333 solid;
+}
+
+
+
+
+
+
+
+
+
+
+
